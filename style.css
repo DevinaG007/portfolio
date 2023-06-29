@@ -1,7 +1,28 @@
+* {box-sizing:border-box;
+ }
 header h1 {
-  font-family: Helvetica;
+  font-family: "Brush Script MT";
     font-size: 38px;
   color: white;
   margin: 20px;
+  text-align:center;
 }
+
+.color-center {
+  color:#22181C;
+  text-align:center;
+  font-size:16px;
+  font-family: Verdana;
+}
+
+header {
+  background-color:#22181C;
+  margin:0px;
+  padding:40px;
+}
+
+body {
+  background-color:##e3cec7;
+}
+  
   
