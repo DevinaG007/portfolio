@@ -6,7 +6,7 @@ header h1 {
   color: white;
   margin: 0px;
   text-align:center;
- text-shadow: 4px 0px #3a606e;
+ text-shadow: 3px 0px #3a606e;
 }
 
 header h2 {
@@ -14,8 +14,7 @@ header h2 {
  font-size:28px;
  color: white;
  text-align:center;
- text-shadow: 4px 0px #3a606e;
- padding:20px;
+ text-shadow: 3px 0px #3a606e;
 }
 
 .color-left {
@@ -46,11 +45,11 @@ article h2, h3 {
 
 img {
  display:block;
- padding:40px;
+ padding:10px;
  border-radius:25%;
  margin-left:auto;
  margin-right:auto;
- width:50%;
+ width:65%;
 }
  
 hr {
@@ -68,18 +67,21 @@ footer {
  background-color:#828e82;
 }
 
+.link {
 a:link { color:#3A606E;}
 a:visited {color:#008080;}
 a:hover {color:#808000;}
 a:active {color:#6082b6;}
+}
 
 .button {
- border-radius:30%;
- padding: 20px 25px;
+ border-radius:15%;
+ padding: 15px 20px;
  background-color:#0B3142;
  font-family:Lucida;
  color:white;
  font-size:16px;
+ text-align:center;
 }
 footer p{
  text-align:center;
