@@ -7,7 +7,6 @@ header h1 {
   font-family: "Brush Script MT";
     font-size: 72px;
   color: white;
-  margin-top: 10px;
   text-align:center;
  text-shadow: 3px 0px #3a606e;
 }
@@ -18,7 +17,6 @@ header h2 {
  color: white;
  text-align:center;
  text-shadow: 3px 0px #3a606e;
- margin-top:10px;
 }
  /* a CSS class that styles text with color, a font, size, and alignment*/
 .color-left {
@@ -33,7 +31,7 @@ header {
   background-color:#828e82;
   margin:0px;
   padding:40px;
- height:190px;
+ height:210px;
 }
 
 main {
