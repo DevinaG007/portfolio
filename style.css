@@ -24,7 +24,7 @@ header h2 {
 .color-left {
   color:#22181C;
   text-align:left;
-  font-size:18px;
+  font-size:16px;
   font-family: Verdana;
   margin:auto;
 }
@@ -46,6 +46,7 @@ article h2, h3 {
  font-family:Monaco;
  color:#5A7684;
 }
+
 
 img {
  display:block;
@@ -73,12 +74,6 @@ footer {
 }
  /*Since there are two types of links with different stylings, this class is assigned to the contact me link.*/
 
-.link {
-a:link { color:#3A606E;}
-a:visited {color:#008080;}
-a:hover {color:#808000;}
-a:active {color:#6082b6;}
-}
 
 /*Creates a button effect for links by setting a background color and border-radius.*/
 .button {
@@ -90,6 +85,13 @@ a:active {color:#6082b6;}
  font-size:16px;
  text-align:center;
  margin:auto;
+}
+
+.link {
+a:link { color:#3A606E;}
+a:visited {color:#008080;}
+a:hover {color:#808000;}
+a:active {color:#6082b6;}
 }
 footer p{
  text-align:center;
