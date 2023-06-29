@@ -15,10 +15,10 @@ header h2 {
  text-align:center;
 }
 
-.color-center {
+.color-left {
   color:#22181C;
-  text-align:center;
-  font-size:16px;
+  text-align:left;
+  font-size:18px;
   font-family: Verdana;
   margin:auto;
 }
@@ -34,15 +34,21 @@ main {
  margin:auto;
  width: 50%;
 }
+
+img {
+ padding:40px;
+ border-radius:20%;
+}
  
 
 body {
   background-color:#aaae8e;
+ margin:0px;
 }
 
 footer {
  height:200px;
- color:#3A606E;
+ background-color:#3A606E;
 }
  
   
