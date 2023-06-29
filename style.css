@@ -2,7 +2,7 @@
  }
 header h1 {
   font-family: "Brush Script MT";
-    font-size: 38px;
+    font-size: 60px;
   color: white;
   margin: 0px;
   text-align:center;
@@ -10,7 +10,7 @@ header h1 {
 
 header h2 {
  font-family:Arial;
- font-size:28px;
+ font-size:38px;
  color: white;
  text-align:center;
 }
@@ -24,15 +24,14 @@ header h2 {
 }
 
 header {
-  background-color:#22181C;
+  background-color:#3A606E;
   margin:0px;
   padding:0px;
 }
 
 body {
-  background-color:##e3cec7;
+  background-color:#aaae8e;
 }
 
-ul {
  
   
