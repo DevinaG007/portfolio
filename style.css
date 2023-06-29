@@ -72,8 +72,6 @@ footer {
  height:80px;
  background-color:#828e82;
 }
- /*Since there are two types of links with different stylings, this class is assigned to the contact me link.*/
-
 
 /*Creates a button effect for links by setting a background color and border-radius.*/
 .button {
@@ -87,12 +85,11 @@ footer {
  margin:auto;
 }
 
-.link {
 a:link { color:#3A606E;}
 a:visited {color:#008080;}
 a:hover {color:#808000;}
 a:active {color:#6082b6;}
-}
+
 footer p{
  text-align:center;
  padding:30px;
