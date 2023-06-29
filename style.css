@@ -4,7 +4,7 @@ header h1 {
   font-family: "Brush Script MT";
     font-size: 72px;
   color: white;
-  margin: 0px;
+  margin-bottom: 10px;
   text-align:center;
  text-shadow: 3px 0px #3a606e;
 }
@@ -15,6 +15,7 @@ header h2 {
  color: white;
  text-align:center;
  text-shadow: 3px 0px #3a606e;
+ margin-bottom:10px;
 }
 
 .color-left {
@@ -82,6 +83,7 @@ a:active {color:#6082b6;}
  color:white;
  font-size:16px;
  text-align:center;
+ margin:auto;
 }
 footer p{
  text-align:center;
