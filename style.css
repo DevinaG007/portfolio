@@ -29,7 +29,7 @@ header {
   background-color:#828e82;
   margin:0px;
   padding:40px;
- height:230px;
+ height:190px;
 }
 
 main {
@@ -45,7 +45,10 @@ article h2, h3 {
 
 img {
  padding:40px;
- border-radius:20%;
+ border-radius:30%;
+ margin-left:auto;
+ margin-right:auto;
+ width:50%;
 }
  
 hr {
@@ -59,7 +62,7 @@ body {
 }
 
 footer {
- height:120px;
+ height:80px;
  background-color:#828e82;
 }
 
@@ -68,5 +71,12 @@ a:visited {color:#008080;}
 a:hover {color:#808000;}
 a:active {color:#6082b6;}
 
- 
+.button {
+ border-radius:20%
+ padding: 20px 15px;
+ background-color:#759eb8;
+ font-family:Lucida;
+ color:white;
+ font-size:16px;
+}
   
