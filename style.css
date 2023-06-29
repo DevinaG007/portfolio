@@ -6,7 +6,7 @@ header h1 {
   color: white;
   margin: 0px;
   text-align:center;
- text-shadow: 2px 0px #3a606e;
+ text-shadow: 4px 0px #3a606e;
 }
 
 header h2 {
@@ -14,7 +14,7 @@ header h2 {
  font-size:28px;
  color: white;
  text-align:center;
- text-shadow: 2px 0px #3a606e;
+ text-shadow: 4px 0px #3a606e;
 }
 
 .color-left {
@@ -58,7 +58,7 @@ hr {
 }
 
 body {
-  background-color:#aaae8e;
+  background-color:#d8e1e9;
  margin:0px;
 }
 
@@ -75,7 +75,7 @@ a:active {color:#6082b6;}
 .button {
  border-radius:30%;
  padding: 60px 35px;
- background-color:#759eb8;
+ background-color:#0B3142;
  font-family:Lucida;
  color:white;
  font-size:16px;
