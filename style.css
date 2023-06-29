@@ -9,6 +9,7 @@ header h1 {
   color: white;
   text-align:center;
  text-shadow: 3px 0px #3a606e;
+ margin: auto;
 }
 
 header h2 {
@@ -17,6 +18,7 @@ header h2 {
  color: white;
  text-align:center;
  text-shadow: 3px 0px #3a606e;
+ margin:auto;
 }
  /* a CSS class that styles text with color, a font, size, and alignment*/
 .color-left {
