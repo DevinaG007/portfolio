@@ -6,6 +6,7 @@ header h1 {
   color: white;
   margin: 0px;
   text-align:center;
+ text-shadow: 2px 0px #3a606e;
 }
 
 header h2 {
@@ -13,6 +14,7 @@ header h2 {
  font-size:28px;
  color: white;
  text-align:center;
+ text-shadow: 2px 0px #3a606e;
 }
 
 .color-left {
@@ -24,10 +26,10 @@ header h2 {
 }
 
 header {
-  background-color:#3A606E;
+  background-color:#828e82;
   margin:0px;
   padding:40px;
- height:270px;
+ height:230px;
 }
 
 main {
@@ -35,11 +37,21 @@ main {
  width: 50%;
 }
 
+article h2, h3 {
+ text-align:center;
+ font-family:Monaco;
+ color:#5A7684;
+}
+
 img {
  padding:40px;
  border-radius:20%;
 }
  
+hr {
+ height:3px;
+ background-color:white;
+}
 
 body {
   background-color:#aaae8e;
@@ -47,8 +59,14 @@ body {
 }
 
 footer {
- height:200px;
- background-color:#3A606E;
+ height:120px;
+ background-color:#828e82;
 }
+
+a:link { color:#3A606E;}
+a:visited {color:#008080;}
+a:hover {color:#808000;}
+a:active {color:#6082b6;}
+
  
   
