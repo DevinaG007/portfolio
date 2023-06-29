@@ -1,5 +1,8 @@
 * {box-sizing:border-box;
  }
+
+/* Adds styling to the headings 1 and 2 in the header*/
+
 header h1 {
   font-family: "Brush Script MT";
     font-size: 72px;
@@ -17,7 +20,7 @@ header h2 {
  text-shadow: 3px 0px #3a606e;
  margin-bottom:10px;
 }
-
+ /* a CSS class that styles text with color, a font, size, and alignment*/
 .color-left {
   color:#22181C;
   text-align:left;
@@ -37,7 +40,7 @@ main {
  margin:auto;
  width: 50%;
 }
-
+/*assigns styling to the headings in the article container*/
 article h2, h3 {
  text-align:center;
  font-family:Monaco;
@@ -50,14 +53,15 @@ img {
  border-radius:25%;
  margin-left:auto;
  margin-right:auto;
- width:65%;
+ margin-top:20px
+ width:60%;
 }
  
 hr {
  height:3px;
  background-color:#3a606e;
 }
-
+/*The background color of the page, margin set to 0 so that all containers in the body fill the page.*/
 body {
   background-color:#d8e1e9;
  margin:0px;
@@ -67,6 +71,7 @@ footer {
  height:80px;
  background-color:#828e82;
 }
+ /*Since there are two types of links with different stylings, this class is assigned to the contact me link.*/
 
 .link {
 a:link { color:#3A606E;}
@@ -75,6 +80,7 @@ a:hover {color:#808000;}
 a:active {color:#6082b6;}
 }
 
+/*Creates a button effect for links by setting a background color and border-radius.*/
 .button {
  border-radius:15%;
  padding: 15px 20px;
