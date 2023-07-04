@@ -20,6 +20,12 @@ header h2 {
  text-shadow: 3px 0px #3a606e;
  margin:auto;
 }
+
+a:link { color:#3A606E;}
+a:visited {color:#008080;}
+a:hover {color:#808000;}
+a:active {color:#6082b6;}
+
  /* a CSS class that styles text with color, a font, size, and alignment*/
 .color-left {
   color:#22181C;
@@ -84,11 +90,6 @@ footer {
  text-align:center;
  margin:auto;
 }
-
-a:link { color:#3A606E;}
-a:visited {color:#008080;}
-a:hover {color:#808000;}
-a:active {color:#6082b6;}
 
 footer p{
  text-align:center;
